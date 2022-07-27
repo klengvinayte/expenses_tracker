@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<expenses>
+  <expense amount='900' category='Образование' date='9.7.2022'>
+    Книжка по Ruby on Rails
+  </expense>
+  <expense amount='1400' category='Хороший программист' date='1.7.2022'>
+    Петличка и провода
+  </expense>
+  <expense amount='9400' category='Хороший программист' date='23.6.2022'>
+    Софтбокс + штатив
+  </expense>
+  <expense amount='15' category='общепит' date='2022-07-21'>
+    ресторан
+  </expense>
+  <expense amount='17' category='продукты' date='2022-07-26'>
+    магазин
+  </expense>
+  <expense amount='35' category='для дома' date='2022-07-27'>
+    аромадиффузор
+  </expense>
+  <expense amount='14' category='обдщепит' date='2022-07-27'>
+    доставка обеда
+  </expense>
+</expenses>
